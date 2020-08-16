@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libpop3", "libpop3.csproj", "{CAB46E9E-33EA-4DE9-B834-01B88CE02280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Application", "Test Application\Test Application.csproj", "{DBD68971-BA8C-44B9-85A6-1141057A57A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB46E9E-33EA-4DE9-B834-01B88CE02280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB46E9E-33EA-4DE9-B834-01B88CE02280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB46E9E-33EA-4DE9-B834-01B88CE02280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB46E9E-33EA-4DE9-B834-01B88CE02280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD68971-BA8C-44B9-85A6-1141057A57A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD68971-BA8C-44B9-85A6-1141057A57A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD68971-BA8C-44B9-85A6-1141057A57A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD68971-BA8C-44B9-85A6-1141057A57A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F602D2FF-06B1-4E1C-8E7F-3E7E87244A27}
+	EndGlobalSection
+EndGlobal
